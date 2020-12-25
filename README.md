@@ -1,13 +1,13 @@
 # Practicas_Java
 Practicas de JAVA
 
-1_cover_ascii
+### 1_cover_ascii
 Convierte un arreglo de caracteres a su respectivo numero ASCII
 
-2_proyecto
+### 2_proyecto
 Ordena un arreglo de letras de menor a mayor por el metodo de la burbuja
 
-3_variables
+### 3_variables
 4_mavenproyect1
 5_mavenproyect2
 6_do_while
