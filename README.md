@@ -5,7 +5,7 @@ Practicas de JAVA
 Convierte un arreglo de caracteres a su respectivo numero ASCII
 
 ### 2_proyecto
-Ordena un arreglo de letras de menor a mayor por el metodo de la burbuja
+Ordena un arreglo de letras de menor a mayor por el método de la burbuja
 
 ### 3_variables
 ### 4_mavenproyect1
